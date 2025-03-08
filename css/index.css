@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+  font-family: "Allura", cursive;
+}
+
+.above-fold {
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 767.98px) {
+  .above-fold-hidden {
+    top: 62%;
+  }
+}
+chuc-mung-8-3

@@ -6,6 +6,7 @@ body {
   overflow: hidden;
   perspective: 1000px;
   font-optical-sizing: auto;
+  font-family: "Allura", cursive;
 }
 
 .flowers {

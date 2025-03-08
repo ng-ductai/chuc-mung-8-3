@@ -176,6 +176,7 @@
   width: 100%;
   font-size: 1rem;
   color: green;
+  font-family: "Allura", cursive;
 }
 .present-box > .side.bottom {
   transform: rotateX(90deg) translateY(100px);
